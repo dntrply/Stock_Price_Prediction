@@ -6,7 +6,7 @@
   ### 3. prepares a consolidated Adj Close File with all Adj Close prices for all tickers for Machine Learning
         ### note: other columns like 'High', 'Low', 'Open' and 'Close' and its varies iterations did not improve accuracy
   ### 4. Predicts using Linear Regression
-     Predicts using Bayesian Ridge Regression
+     Predicts using Linear Regression
      Predicts using Bayesian Ridge Regression
      Predicts using using RANSAC
      Predicts using K Nearest Neighbors Regressor
