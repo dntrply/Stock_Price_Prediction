@@ -1,4 +1,4 @@
-# Stock_Price_Prediction
+# Stock_Price_Prediction - only for educational purpose
 ## Self contained module in just a few lines of code, predicts future prices of any company in S&P 500 using all prices of S&P tickers using sci-kit learn
 ### Run Note Book Predict_Stock_Prices.ipynb (other notebooks are inter-connected)
   ### 1. downloads/updates latest S&P tickers 
